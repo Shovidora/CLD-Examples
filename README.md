@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/10bddd01-6da4-4b25-a2de-adb4c9551aeb
 <img width="1916" height="846" alt="image" src="https://github.com/user-attachments/assets/2edcd9c8-4e70-402a-8df5-6b070e03fa2e" />
 
 # How to use:
-The download is not yet available.
+The download is not yet available. 
 Buttons:
 - Play Auto - P 
 - New Arrow - N
